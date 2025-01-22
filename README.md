@@ -22,8 +22,8 @@ The repository includes:
 ## Certifications Included 🏆
 
 Below is a non-exhaustive list of certifications and badges featured in this repository:
-- [CompTIA Security+](https://github.com/CyberJayByDay/Certifications-Badges/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
-- [Google Cybersecurity](https://github.com/CyberJayByDay/Certifications-Badges/blob/main/GoogleCyberSecurityCertificate.pdf)
+- [CompTIA Security+](https://github.com/CyberJayByDay/Certifications-Badges/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) -Click Here For [Verification](https://www.credly.com/badges/42d9e1b5-9fee-4018-ad91-f8e739bc8926)
+- [Google Cybersecurity](https://github.com/CyberJayByDay/Certifications-Badges/blob/main/GoogleCyberSecurityCertificate.pdf) -Click Here For [Verification](https://www.coursera.org/account/accomplishments/professional-cert/EYZZYNH63UPD)
 - OSCP (Pending Soon To Come!)
   
 *For a complete list, browse the files in this repository.*
@@ -38,7 +38,7 @@ Feel free to:
 ## Connect with Me 🌐
 
 If you have any questions, suggestions, or would like to collaborate, feel free to connect:
-- **LinkedIn:** http://linkedin.com/in/jalen-jones-27a9a316a
+- **LinkedIn:** [Jalen Jones](http://linkedin.com/in/jalen-jones-27a9a316a)
 - **Email:** jalenjones@cyberjaybyday.com
 
 ---
