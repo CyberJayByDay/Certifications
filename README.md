@@ -22,8 +22,8 @@ The repository includes:
 ## Certifications Included 🏆
 
 Below is a non-exhaustive list of certifications and badges featured in this repository:
-- CompTIA Security+
-- Google Cybersecurity
+- ![CompTIA Security+](https://github.com/CyberJayByDay/Certifications-Badges/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
+- ![Google Cybersecurity](https://github.com/CyberJayByDay/Certifications-Badges/blob/main/GoogleCyberSecurityCertificate.pdf)
 - OSCP (Pending Soon To Come!)
   
 *For a complete list, browse the files in this repository.*
