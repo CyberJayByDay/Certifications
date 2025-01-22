@@ -1,9 +1,9 @@
 
 ---
 
-# Certifications-Badges Repository 🎓
+# Certifications 🎓
 
-Welcome to the **Certifications-Badges** repository! This repository serves as a centralized collection of my professional certifications, badges, and achievements in various fields, including cybersecurity, technology, programming, and more.
+Welcome to the **Certifications** repository! This repository serves as a centralized collection of my professional certifications, badges, and achievements in various fields, including cybersecurity, technology, programming, and more.
 
 ## Purpose 📌
 
